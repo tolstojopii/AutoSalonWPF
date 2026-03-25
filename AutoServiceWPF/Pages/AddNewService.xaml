@@ -1,0 +1,58 @@
+﻿<Page x:Class="AutoServiceWPF.Pages.AddNewService"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AutoServiceWPF.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddNewService">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Background="#2c2c2c" Grid.ColumnSpan="2">
+            <TextBlock Margin="5" Text="Лучший автосервис" Foreground="White" FontFamily="Comic Sans MS" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="24"/>
+            <Image HorizontalAlignment="Right" VerticalAlignment="Center" Source="/Pages/Preview.jpg" />
+        </Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin="5" VerticalAlignment="Center" Width="135" Text="Название" TextAlignment="Right"/>
+                <TextBox Margin="5" Width="150" Name="TBoxTitle"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin="5" VerticalAlignment="Center" Width="135" Text="Стоимость" TextAlignment="Right"/>
+                <TextBox Margin="5" Width="150" Name="TBoxCost"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin="5" VerticalAlignment="Center" Width="135" Text="Длительность(часы)" TextAlignment="Right"/>
+                <TextBox Margin="5" Width="150" Name="TBoxDurationHours"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin="5" VerticalAlignment="Center" Width="135" Text="Длительность(минуты)" TextAlignment="Right"/>
+                <TextBox Margin="5" Width="150" Name="TBoxDurationMinutes"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin="5" VerticalAlignment="Center" Width="135" Text="Описание" TextAlignment="Right"/>
+                <TextBox Margin="5" Width="150" TextWrapping="Wrap" Height="60" Name="TBoxDescription"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin="5" VerticalAlignment="Center" Width="135" Text="Скидка" TextAlignment="Right"/>
+                <TextBox Margin="5" Width="150" Name="TBoxDiscount"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Grid.Row="1">
+            <Border Height="200" Width="200" BorderBrush="#FF424244" BorderThickness="3">
+                <Image Name="ImgServiceImage"/>
+            </Border>
+            <Button Height="30" Width="200" Margin="5" Name="BtnSelectImage" Click="BtnSelectImage_Click" Content="Добавить фотографию"/>
+            <Button Height="30" Width="200" Margin="5" Name="BtnSave" Click="BtnSave_Click" Content="Сохранить"/>
+        </StackPanel>
+    </Grid>
+</Page>
