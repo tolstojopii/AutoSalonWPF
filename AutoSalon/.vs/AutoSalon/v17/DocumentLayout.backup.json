@@ -1,0 +1,577 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C#\\AutoSalon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\entities\\productsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\entities\\productsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\carslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\carslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\images\\no_image.png||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\images\\no_image.png||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\entities\\product.partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\entities\\product.partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\addsalepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\addsalepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\entities\\productphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\entities\\productphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Migrations\\20260401184949_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AutoSalon\\Migrations\\20260401184949_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\entities\\productsale.partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\entities\\productsale.partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\addeditcarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\addeditcarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\addeditcarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\addeditcarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\autosalon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\autosalon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\addsalepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\addsalepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\saleslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\saleslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\saleslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\saleslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\clientspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\clientspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\clientspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\clientspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\carslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\carslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\mainpageadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\mainpageadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\mainpageadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\mainpageadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\mainpageclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\mainpageclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\pages\\mainpageclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\pages\\mainpageclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\entities\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\entities\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Migrations\\20260401172330_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AutoSalon\\Migrations\\20260401172330_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\entities\\autosaloncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\entities\\autosaloncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|d:\\programming\\c#\\autosalon\\autosalon\\entities\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848662AE-1058-485B-B785-BD35BCCBF209}|AutoSalon\\AutoSalon.csproj|solutionrelative:autosalon\\entities\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 394,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260401184949_InitialCreate2.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Migrations\\20260401184949_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Migrations\\20260401184949_InitialCreate2.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Migrations\\20260401184949_InitialCreate2.cs",
+              "RelativeToolTip": "AutoSalon\\Migrations\\20260401184949_InitialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:49:50.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Productphoto.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\Productphoto.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Entities\\Productphoto.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\Productphoto.cs",
+              "RelativeToolTip": "AutoSalon\\Entities\\Productphoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:47:59.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddSalePage.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\AddSalePage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\AddSalePage.xaml.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\AddSalePage.xaml.cs",
+              "RelativeToolTip": "AutoSalon\\Pages\\AddSalePage.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:58:22.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.partial.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\Product.partial.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Entities\\Product.partial.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\Product.partial.cs",
+              "RelativeToolTip": "AutoSalon\\Entities\\Product.partial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:55:54.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\App.xaml.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\App.xaml.cs",
+              "RelativeToolTip": "AutoSalon\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:15:00.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "no_image.png",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Images\\no_image.png",
+              "RelativeDocumentMoniker": "AutoSalon\\Images\\no_image.png",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Images\\no_image.png",
+              "RelativeToolTip": "AutoSalon\\Images\\no_image.png",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-04-01T18:00:40.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsListPage.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\CarsListPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\CarsListPage.xaml.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\CarsListPage.xaml.cs",
+              "RelativeToolTip": "AutoSalon\\Pages\\CarsListPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:52:09.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Productsale.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\Productsale.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Entities\\Productsale.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\Productsale.cs",
+              "RelativeToolTip": "AutoSalon\\Entities\\Productsale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:02:03.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\DbInitializer.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\DbInitializer.cs",
+              "RelativeToolTip": "AutoSalon\\DbInitializer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:21:36.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Productsale.partial.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\Productsale.partial.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Entities\\Productsale.partial.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\Productsale.partial.cs",
+              "RelativeToolTip": "AutoSalon\\Entities\\Productsale.partial.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:57:55.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEditCarPage.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\AddEditCarPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\AddEditCarPage.xaml.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\AddEditCarPage.xaml.cs",
+              "RelativeToolTip": "AutoSalon\\Pages\\AddEditCarPage.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:58:55.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Entities\\Product.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\Product.cs",
+              "RelativeToolTip": "AutoSalon\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:02:32.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalesListPage.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\SalesListPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\SalesListPage.xaml.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\SalesListPage.xaml.cs",
+              "RelativeToolTip": "AutoSalon\\Pages\\SalesListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:57:18.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AutoSalon",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\AutoSalon.csproj",
+              "RelativeDocumentMoniker": "AutoSalon\\AutoSalon.csproj",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\AutoSalon.csproj",
+              "RelativeToolTip": "AutoSalon\\AutoSalon.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T17:41:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEditCarPage.xaml",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\AddEditCarPage.xaml",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\AddEditCarPage.xaml",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\AddEditCarPage.xaml",
+              "RelativeToolTip": "AutoSalon\\Pages\\AddEditCarPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T17:53:14.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddSalePage.xaml",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\AddSalePage.xaml",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\AddSalePage.xaml",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\AddSalePage.xaml",
+              "RelativeToolTip": "AutoSalon\\Pages\\AddSalePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T17:53:27.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthPage.xaml",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\AuthPage.xaml",
+              "RelativeDocumentMoniker": "AutoSalon\\AuthPage.xaml",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\AuthPage.xaml",
+              "RelativeToolTip": "AutoSalon\\AuthPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T17:42:15.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AutoSalon\\MainWindow.xaml",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\MainWindow.xaml",
+              "RelativeToolTip": "AutoSalon\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T17:35:07.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientsPage.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\ClientsPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\ClientsPage.xaml.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\ClientsPage.xaml.cs",
+              "RelativeToolTip": "AutoSalon\\Pages\\ClientsPage.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwv04AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:56:48.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CarsListPage.xaml",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\CarsListPage.xaml",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\CarsListPage.xaml",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\CarsListPage.xaml",
+              "RelativeToolTip": "AutoSalon\\Pages\\CarsListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T17:51:42.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClientsPage.xaml",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\ClientsPage.xaml",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\ClientsPage.xaml",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\ClientsPage.xaml",
+              "RelativeToolTip": "AutoSalon\\Pages\\ClientsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T17:52:37.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SalesListPage.xaml",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\SalesListPage.xaml",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\SalesListPage.xaml",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\SalesListPage.xaml",
+              "RelativeToolTip": "AutoSalon\\Pages\\SalesListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T17:52:59.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainPageAdmin.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\MainPageAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\MainPageAdmin.xaml.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\MainPageAdmin.xaml.cs",
+              "RelativeToolTip": "AutoSalon\\Pages\\MainPageAdmin.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:47:51.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainPageAdmin.xaml",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\MainPageAdmin.xaml",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\MainPageAdmin.xaml",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\MainPageAdmin.xaml",
+              "RelativeToolTip": "AutoSalon\\Pages\\MainPageAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T17:47:39.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainPageClient.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\MainPageClient.xaml.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\MainPageClient.xaml.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\MainPageClient.xaml.cs",
+              "RelativeToolTip": "AutoSalon\\Pages\\MainPageClient.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:47:14.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainPageClient.xaml",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\MainPageClient.xaml",
+              "RelativeDocumentMoniker": "AutoSalon\\Pages\\MainPageClient.xaml",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Pages\\MainPageClient.xaml",
+              "RelativeToolTip": "AutoSalon\\Pages\\MainPageClient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T17:47:04.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthPage.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\AuthPage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\AuthPage.xaml.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\AuthPage.xaml.cs",
+              "RelativeToolTip": "AutoSalon\\AuthPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:42:39.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Entities\\DbInitializer.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\DbInitializer.cs",
+              "RelativeToolTip": "AutoSalon\\Entities\\DbInitializer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:37:42.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AutoSalon\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:36:01.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260401172330_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Migrations\\20260401172330_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Migrations\\20260401172330_InitialCreate.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Migrations\\20260401172330_InitialCreate.cs",
+              "RelativeToolTip": "AutoSalon\\Migrations\\20260401172330_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:23:31.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\Gender.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Entities\\Gender.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\Gender.cs",
+              "RelativeToolTip": "AutoSalon\\Entities\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:20:03.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AutoSalonContext.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\AutoSalonContext.cs",
+              "RelativeDocumentMoniker": "AutoSalon\\Entities\\AutoSalonContext.cs",
+              "ToolTip": "D:\\Programming\\C#\\AutoSalon\\AutoSalon\\Entities\\AutoSalonContext.cs",
+              "RelativeToolTip": "AutoSalon\\Entities\\AutoSalonContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:16:36.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 32,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

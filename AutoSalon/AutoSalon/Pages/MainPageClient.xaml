@@ -1,0 +1,10 @@
+﻿<Page x:Class="AutoSalon.Pages.MainPageClient"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Главная (клиент)">
+    <Grid Background="Orange">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Список автомобилей" Margin="10" FontSize="20" Click="CarsButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
